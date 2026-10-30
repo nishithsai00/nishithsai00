@@ -27,4 +27,4 @@ Two independently deployable Spring Boot services with Eureka service discovery,
 
 ## Reach me
 
-[LinkedIn](https://www.linkedin.com/in/nishith-sai-62a60b378) · n@nishith.is-a.dev
+[LinkedIn](https://www.linkedin.com/in/nishith-sai-62a60b378) · admin@nishith.is-a.dev
